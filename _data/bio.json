@@ -1,40 +1,30 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Sriram Akella",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "email": "SriramAkella@protonmail.com",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "website": "https://srm-akla.github.io",
+    "summary": "I am studying for a B.S. in Electronics in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Grimstad",
+      "countryCode": "Norway",
+      "region": "Aust-Agder"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Srm-Akla",
+        "url": "https://github.com/Srm-Akla/"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
         "url": "http://linkedin.com/in/changeme"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
@@ -83,10 +73,10 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Agder, Grimstad, Norway",
+      "area": "Electronics",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018",
       "endDate": "Present",
       "gpa": "",
       "courses": [
