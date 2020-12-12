@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "mollymaluhia",
         "url": "http://linkedin.com/in/changeme"
-      },
+      }
     ]
   },
   "interests": [
@@ -36,12 +36,12 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "Cryptography",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Embedded Systems",
       "keywords": [
       ]
     }
