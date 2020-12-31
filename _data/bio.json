@@ -38,13 +38,11 @@
     {
       "organization": "Røde Kors HjelpeKorps",
       "website": "https://www.rodekors.no/tilbudene/hjelpekorps/",
-      "position": "Frivillig",
+      "position": "Korspmedlem",
       "startDate": "2020",
       "endDate": "Present",
-      "summary": "Hjelpekorps blir kalt ut av politiet når noen blir savnet, ved ulykker, kriser og naturkatastrofer.",
+      "summary": "Hjelpekorps er den største frivillige aktøren innen den norske redningstjenesten. Vi bli kalt ut av politiet når noen blir savnet, ved ulykker, kriser og naturkatastrofer.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
@@ -53,20 +51,37 @@
       "position": "Leder",
       "startDate": "2019",
       "endDate": "2020",
-      "summary": "Studentforeningen som er glad i friluftsliv. Jeg var leder i Grimstad for ett år, ",
+      "summary": "Fjell og Fjære er studentforeningen som har fokus i friluftsliv og aktivitet i naturen. Som leder var det mitt ansvar  ̊a diskutere med styremedlemmer om planlegging av aktiviteter, promotering ogsamarbeid med andre organisasjoner.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    },
+    {
+      "organization": "Erasmus Student Network",
+      "website": "https://www.esn.org",
+      "position": "Buddy",
+      "startDate": "2019",
+      "endDate": "Present",
+      "summary": "Erasmus Student Network (ESN) er en europeisk studentorganisasjon som støtter og utvikler studentutvekslinger,b ̊ade innenfor Erasmus + -programmet og utenfor det.•Oppgave som Buddy er  ̊a hjelpe utvekslings students med  ̊a integrere med norsk samfunn og skjønnenorsk.",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Grimstad Frivilligsentral",
+      "website": "https://www.esn.org",
+      "position": "Grimstad Leaders",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Grimstad Leaders er et talentprogram som har som mål å skape selvfølelse, tilhørighet og mestring for ungdommer iGrimstad.•M ̊alet er at deltakerne gjennom ledertrening og frivillig arbeid blir trygge ungdommer, unge ledere og rollemodelleri et sosialt inkluderende og mangfoldig fellesskap.",
+      "highlights": [
       ]
     }
   ],
-  "Certificates": [
+  "awards": [
     {
       "title": "Kvalifisert i Samband, Førstehjelp, Søk og Redning",
       "date": "",
       "awarder": "Røde Kors Hjelpe Korps",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": ""
     }
   ],
   "interests": [
