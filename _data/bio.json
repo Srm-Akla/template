@@ -27,50 +27,6 @@
       }
     ]
   },
-  "interests": [
-    {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "Cryptography",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Embedded Systems",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "University of Agder, Grimstad, Norway",
@@ -110,18 +66,72 @@
       ]
     }
   ],
-  "awards": [
+  "Certificates": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
+      "title": "Kvalifisert i Samband, Førstehjelp, Søk og Redning",
+      "date": "",
+      "awarder": "Røde Kors Hjelpe Korps",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    }
+  ],
+  "interests": [
+    {
+      "name": "internet of things",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
+      ]
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "name": "Cryptography",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Embedded Systems",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C", 
+	"Python", 
+	"C/C++", 
+	"VHDL", 
+	"HTML/CSS", 
+	"Vimscript", 
+	"Bash",
+	"Powershell", 
+	"Assembly"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+	  "GCC", 
+	  "Linux",
+	  "Git",
+	  "Docker",
+	  "VSCode",
+	  "KiCAD",
+	  "Xilinx"
+      ]
+    },
+    {
+      "name": "Boards",
+      "level": "",
+      "keywords": [
+	  "RaspBerry Pie", 
+	  "Atmega328P", 
+	  "Nrf52DK", 
+	  "STM32L15", 
+	  "Nexys4DDR"
+      ]
     }
   ],
   "references": [
